@@ -1,0 +1,19 @@
+.containerTimer{
+    color: #f2f3f5;
+    margin: 3rem 0px;
+}
+
+.counter{
+    margin: auto;
+}
+
+.restart{
+    margin:0px auto 1rem auto ;
+    font-size: 0.8rem;
+    color: #f2f3f594;
+}
+
+.pausePlayButton{
+    margin: auto;
+    font-size: 2rem;
+}
